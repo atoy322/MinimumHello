@@ -7,4 +7,5 @@ The minimum implementation for each languages to print "hello" to console.
 - JavaScript : 22 [Bytes]
 - C :          57 [Bytes]
 - Java :      109 [Bytes]
+- C# :        109 [Bytes]
 
