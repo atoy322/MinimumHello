@@ -5,3 +5,4 @@ The minimum implementation for each languages to print "hello" to console.
 - Python :     15 [Bytes]
 - Golang :     67 [Bytes]
 - JavaScript : 22 [Bytes]
+- C :          57 [Bytes]
